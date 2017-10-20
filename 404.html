@@ -8,10 +8,10 @@
 
 <body>
   <script>
-    var protocol = window.location.href.split('://d.tube')[0]
-    var path = window.location.href.split('://d.tube')[1]
+    protocol = window.location.href.split('://d.tube')[0]
+    path = window.location.href.split('://d.tube')[1]
     path = path.replace('/', '/#!/')
-    window.history.replaceState(null, null, path)
+    window.location.replace(protocol+'://d.tube'+path)
   </script>
 </body>
 
