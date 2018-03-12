@@ -5,7 +5,6 @@
       "displayNodes": [
         "https://snap1.d.tube",
         "https://ipfs.io",
-        "https://ipfs.infura.io",
         "http://127.0.0.1:8080"
       ],
       "snapMaxFileSizeKB": 1024,
