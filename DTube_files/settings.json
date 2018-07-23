@@ -4,13 +4,12 @@
       "loadLimit": 12,
       "displayNodes": [
         "https://snap1.d.tube",
-        "https://ipfs.io",
         "http://127.0.0.1:8080"
       ],
       "snapMaxFileSizeKB": 1024,
       "upldr": ["cluster"]
     },
-    "app": "dtube/0.7",
+    "app": "dtube/0.8",
     "beneficiary": "dtube",
     "pageTitleSeparator": "-",
     "appName": "DTube",
