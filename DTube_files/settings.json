@@ -34,7 +34,9 @@
       "ro": {"name": "Română", "path": "ro/ro-RO.json"},
       "ru": {"name": "русский", "path": "ru/ru-RU.json"},
       "sl": {"name": "Slovenščina", "path": "sl/sl-SI.json"},
-      "tr": {"name": "Türkçe", "path": "tr/tr-TR.json"}
+      "tr": {"name": "Türkçe", "path": "tr/tr-TR.json"},
+      "zh-CN": {"name": "中文 (简体)", "path": "zh-CN/zh-CN.json"},
+      "zh-TW": {"name": "中文 (繁體)", "path": "zh-TW/zh-TW.json"}
     }
   }
   
