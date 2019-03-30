@@ -6,7 +6,16 @@
         "https://snap1.d.tube",
         "http://127.0.0.1:8080"
       ],
-      "snapMaxFileSizeKB": 1024,
+      "APINodes": [
+        "https://api.steemit.com/",
+        "https://steemd.minnowsupportproject.org/",
+        "https://anyx.io/",
+        "https://rpc.steemviz.com/",
+        "https://rpc.usesteem.com/",
+        "https://steemd.privex.io/",
+        "https://api.steem.house/"
+      ],
+      "snapMaxFileSizeKB": 4096,
       "upldr": ["cluster"]
     },
     "app": "dtube/0.8",
