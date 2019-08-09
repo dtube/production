@@ -18,7 +18,7 @@
       "snapMaxFileSizeKB": 4096,
       "upldr": ["cluster"]
     },
-    "app": "dtube/0.8",
+    "app": "dtube/0.9",
     "beneficiary": "dtube",
     "pageTitleSeparator": "-",
     "appName": "DTube",
