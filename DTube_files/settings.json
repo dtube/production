@@ -7,18 +7,29 @@
         "http://127.0.0.1:8080"
       ],
       "APINodes": [
-        "https://api.steemit.com/",
-        "https://steemd.minnowsupportproject.org/",
-        "https://anyx.io/",
-        "https://rpc.steemviz.com/",
-        "https://rpc.usesteem.com/",
-        "https://steemd.privex.io/",
-        "https://api.steem.house/"
+        "https://api.steemit.com",
+        "https://api.justyy.com",
+        "https://steem.61bts.com"
+      ],
+      "AvalonAPINodes": [
+        "https://avalon.d.tube",
+        "https://avalon.oneloved.tube",
+        "http://localhost:3001"
+      ],
+      "HiveAPINodes": [
+        "https://anyx.io",
+        "https://api.hivekings.com",
+        "https://rpc.esteem.app",
+        "https://techcoderx.com",
+        "https://api.followbtcnews.com",
+        "https://hived.privex.io",
+        "https://hived.hive-engine.com",
+        "https://api.deathwing.me"
       ],
       "snapMaxFileSizeKB": 4096,
-      "upldr": ["cluster"]
+      "upldr": ["1.btfsu","2.btfsu","3.btfsu","4.btfsu"]
     },
-    "app": "dtube/0.9",
+    "app": "dtube/1.0",
     "beneficiary": "dtube",
     "pageTitleSeparator": "-",
     "appName": "DTube",
